@@ -1,4 +1,4 @@
-# whatsApp-pyautogui
+# whatsApp-pyautogui 1920x1080
 This is a mini script for WhatsApp spam messages.
 
 # Libraries
